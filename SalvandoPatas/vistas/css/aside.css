@@ -1,0 +1,23 @@
+#asideizquierda {
+	 
+  width: 10%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  margin-top: -24%;
+  font-style: italic;
+  background:#fbfbfbe8;
+  border-style: double;
+   }
+  #asidederecha {
+   
+  width: 10%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+margin-top: -24%;
+background:#fbfbfbe8;
+border-style: double;
+  
+} 

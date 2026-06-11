@@ -1,0 +1,213 @@
+
+#contenedordelogos{
+	background: #ffeec894;
+
+}
+
+
+.social ul li a li {
+font-size: 18px;
+margin: 0px;
+}
+h1{font-size: 97px;}
+header #buscador{
+	margin:10px 0;
+
+	
+}
+header #buscador input{
+	padding:19px;
+	border-radius:0;
+}
+
+header #buscador button{
+	padding:9px;
+	border:1px solid silver;
+	border-radius:0;
+		
+	height: 40px;
+}
+header #buscador img{
+
+		width: 25px;
+	height: 25px;
+	overflow: hidden;
+}
+.redSocial{
+	width: 28px;
+	height: 28px;
+
+}
+.redSocial:hover{
+width: 30px;
+height: 30px;
+
+}
+
+
+
+
+header .social{
+	padding-top: 60px;
+}
+
+
+
+ #logonombre{
+	margin-top: 1%;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color:#f44eff08;
+      width: 162%;
+    height: 100px;
+    margin-left: -5%; 
+    color: black;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+    background: repeating-linear-gradient(45deg, #f5cdcd, #5bf3e529 100px);
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+    background: repeating-linear-gradient(45deg, #5bf3e529,#f5cdcd  100px);
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: #feffbaa8;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: black;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+
+#logocorazon:hover{
+
+  animation: shake 0.5s; 
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+}
+
+@media (min-width:1200px){
+
+	/*=============================================
+	HEADER
+	=============================================*/
+
+	header #logotipo img{
+		padding:2px 2px;
+		padding-left:0px;
+		width: 800px;
+		height: 160px;
+		margin: auto;
+	
+	}
+
+
+
+}
+@media (max-width:1199px) and (min-width:992px){
+
+	/*=============================================
+	HEADER
+	=============================================*/
+
+
+
+
+	
+
+}
+@media (max-width:991px) and (min-width:768px){
+
+	/*=============================================
+	HEADER
+	=============================================*/
+
+	header #logotipo img{
+		padding:30px 0px;
+	}
+
+	
+
+}
+@media (max-width:767px){
+
+	/*=============================================
+	TOP
+	=============================================*/
+
+	 
+	/*=============================================
+	HEADER
+	=============================================*/
+
+	header #logotipo img{
+		padding:30px;
+		padding-bottom:10px;
+	}
+
+	 
+
+	header #buscador{
+		margin-bottom:10px;
+		margin-right: 10px;
+	}
+
+	
+	 
+}

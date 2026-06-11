@@ -1,0 +1,77 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'El Messiri', sans-serif;
+	
+	
+}
+.frontColor {
+background: #ffc7d2;
+}
+body {
+	background-image: url("http://localhost/camilo/vistas/images/plantilla/fondo.png");
+	background-repeat: no-repeat;
+	 background-size:cover;
+	 min-height:100%;
+}
+
+ul, ol {
+	padding: 0px;
+}
+
+a:visited, a:link, a:focus, a:active{
+	list-style:none;
+	text-decoration: none;	
+	background-color: rgba(0,0,0,0);
+}
+
+.barraSuperior a{
+	color:white;
+}
+.menubarcategorias{
+	margin-top: 10px;
+}
+#lupa {
+    width: 16px;
+    height: 15px;
+}
+
+.redSocial{
+	width: 	30px;
+	height: 	30px;
+	text-align: 	center;	
+	line-height: 	30px;
+}
+
+.fondoBreadCrumb{
+	margin-bottom: 0px;
+	background: rgba(0,0,0,0);
+	text-transform: uppercase;
+}
+
+.ojo, .kokoro, .carrin, .camion, .mariposa{
+	width: 20px;
+}
+
+
+@media (min-width:1200px){
+
+ 
+
+}
+@media (max-width:1199px) and (min-width:992px){
+
+ 
+}
+@media (max-width:991px) and (min-width:768px){
+
+ 
+
+}
+@media (max-width:767px){
+
+} 
+	 
+	 

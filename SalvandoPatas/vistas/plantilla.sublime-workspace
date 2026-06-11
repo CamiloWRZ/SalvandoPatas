@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"vi",
+				"vistas"
+			],
+			[
+				"pHP",
+				"php"
+			],
+			[
+				"ca",
+				"casado"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"get",
+				"getEdad"
+			],
+			[
+				"v",
+				"valor"
+			],
+			[
+				"ge",
+				"getBoolean"
+			],
+			[
+				"def",
+				"defined"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"pass"
+			],
+			[
+				"C",
+				"checked"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"sty",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xamppale/htdocs/camilo1/.htaccess",
+		"/C/xamppale/htdocs/camilo1/index.php",
+		"/C/xamppale/htdocs/camilo/vistas/plantilla.php",
+		"/C/xamppale/htdocs/camilo/vistas/css/plantilla.css",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/destacado.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/destacados.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/footer.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/header.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/moduloprincipal.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/aside.php",
+		"/C/xamppale/htdocs/camilo/vistas/css/destacados.css",
+		"/C/xamppale/htdocs/camilo/index.php",
+		"/C/xamppale/htdocs/camilo/vistas/js/plantilla.js",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/productos.php",
+		"/C/xamppale/htdocs/camilo/modelo/rutas.php",
+		"/C/xamppale/htdocs/camilo/vistas/css/footer.css",
+		"/C/xamppale/htdocs/camilo/vistas/css/moduloprincipal.css",
+		"/C/xamppale/htdocs/camilo/vistas/css/plugins/bootstrap.min.css",
+		"/C/xamppale/htdocs/camilo/vistas/css/aside.css",
+		"/C/xamppale/htdocs/camilo/vistas/css/header.css",
+		"/C/XAMPPS/htdocs/proyectoEcommerceAleulp - copia/frontend/vistas/css/header.css",
+		"/C/xamppale/htdocs/camilo/modelo/plantilla_modelo.php",
+		"/C/xamppale/htdocs/camilo/controlador/producto_controlador.php",
+		"/C/xamppale/htdocs/camilo/vistas/js/plugins/bootstrap.min.js",
+		"/C/xamppale/htdocs/camilo/modelo/conexion.php",
+		"/C/xamppale/htdocs/camilo/vistas/modulos/slide.php",
+		"/C/xamppale/htdocs/camilo/controlador/plantilla_controlador.php",
+		"/C/XAMPPS/htdocs/proyectoEcommerceAleulp - copia/frontend/vistas/plantilla.php",
+		"/C/XAMPPS/htdocs/proyectoEcommerceAleulp - copia/frontend/index.php",
+		"/C/xampp2/phpMyAdmin/config.inc.php",
+		"/C/Users/alela/OneDrive/Documentos/Nueva carpeta/RestController.php",
+		"/C/Users/alela/OneDrive/Documentos/Nueva carpeta/MobileRestHanler.php",
+		"/C/xampp2/mysql/bin/my.ini",
+		"/C/Users/alela/OneDrive/Documentos/Nueva carpeta/Mobile.php",
+		"/C/xampp2/htdocs/api/Api_model.php",
+		"/C/xampp2/htdocs/api/config/constante.php",
+		"/C/xampp2/htdocs/api/extensiones/paypal.controlador.php",
+		"/C/xampp2/htdocs/api/config/database.php",
+		"/C/xampp2/htdocs/api/config/config.php",
+		"/C/xampp2/htdocs/api/modelo/conexion.php",
+		"/C/xampp2/htdocs/api/index.php",
+		"/C/xampp2/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp2/php/php.ini",
+		"/C/xampp2/apache/logs/error.log",
+		"/C/xampp2/apache/conf/httpd.conf",
+		"/C/xampp2/htdocs/codel/.env",
+		"/C/xampp2/htdocs/codel/app/Config/App.php",
+		"/C/Users/alela/OneDrive/Escritorio/Agenda/modelo/contacto",
+		"/C/Users/alela/OneDrive/Escritorio/Agenda/modelo/Contacto.class",
+		"/C/xampp2/htdocs/cam/estilo.css",
+		"/C/xampp2/htdocs/cam/nosotros.php",
+		"/C/xampp2/htdocs/cam/index.php",
+		"/C/Users/alela/OneDrive/Escritorio/Nueva carpeta (2)/cam/index"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrMostrarProductos",
+			"ProductoControlador",
+			"ControladorProductos",
+			"container",
+			"clea",
+			"producto_controlador",
+			"ControladorProductos",
+			"cuadros",
+			"menu",
+			"contened",
+			".container",
+			"container",
+			"aside",
+			"buscar",
+			"hover",
+			"#777",
+			"navbar",
+			");",
+			"?>",
+			"producto",
+			"logo",
+			"social",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plantilla.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
